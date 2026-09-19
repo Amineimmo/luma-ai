@@ -147,10 +147,10 @@ Tracks targeted:
 ## 👨‍💻 Author
 
 **Mohamed Amine Bouhassoune**
-Second-year IT & AI Engineering Student
+First-year IT & AI Engineering Student
 ENSA Agadir, Université Ibn Zohr — Morocco
 
-Built solo in under 3 weeks.
+Built solo in 1 day.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Amineimmo-black?style=flat-square&logo=github)](https://github.com/Amineimmo)
 
